@@ -203,3 +203,94 @@ span{
     color: white;
     
 }
+/* subcribe product*/
+.product{
+    display: flex;
+    gap: 5px;
+    
+}
+.product-img{
+     width: 90%;
+    
+}
+
+.title-primary{
+    align-items: center;
+    text-align: center;
+    
+}
+.full-deals{
+    padding: 24px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background-image: url('/Flower Asset/Rectangle 9.png');
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.dec{
+    color: #27272799;
+}
+.sb-title{
+    color: #272727;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.from-btn{
+    align-items: center;
+    text-align: center;
+}
+input{
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    padding: 9px;
+    border: none;
+}
+.bt-primary{
+    padding: 20px 45px;
+    background-color: #E55473;;
+    border: none;
+    color: white;
+    
+}
+
+/* footer style */
+.footer-color{
+    background: #111010;
+    padding: 50px;
+    color: white;
+}
+.footer-title{
+    color: #E55473;
+    font-family: Lato;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer-title span{
+    color: #FFFFFF;
+}
+.footer-discription{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.receive{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
